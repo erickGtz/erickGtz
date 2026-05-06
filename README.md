@@ -1,14 +1,14 @@
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Erick G. Sánchez</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Erick G. Sánchez</h1></summary>
   </ul>
 </div>
 
-- 🎓 **Final semester** Information Technology Engineering student (BUAP).
-- 🔭 Currently working on **mini-systems and modular architectures** for video games.
-- 🌱 Fascinated by the **historical context** of digital entertainment and exploring ways to weave **relatable**, everyday stories into player experiences.
-- 💾 Core IT Interests: **Software Engineering**, **Database Management**, and applying **data analysis** to my personal passions.
-- ⚡ Fun fact: I'm a huge fan of Jorge Ibargüengoitia. I really love his brilliantly ironic way of capturing the quirks of Mexican daily life.
+- **Final semester** Information Technology Engineering student (BUAP).
+- Currently working on **mini-systems and modular architectures** for video games.
+- Fascinated by the **historical context** of digital entertainment and exploring ways to weave **relatable**, everyday stories into player experiences.
+- Core IT Interests: **Software Engineering**, **Database Management**, and applying **data analysis** to my personal passions.
+- Fun fact: I'm a huge fan of Jorge Ibargüengoitia. I really love his brilliantly ironic way of capturing the quirks of Mexican daily life.
 
 <br>
 
