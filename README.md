@@ -102,12 +102,24 @@
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
     &nbsp;
+      <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  </a>
+    &nbsp;
+    <a href="https://trello.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white" alt="trello"/>
+  </a>
+    &nbsp;
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
     &nbsp;
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
+  </a>
+    &nbsp;
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
   </a>
 </p>
 
